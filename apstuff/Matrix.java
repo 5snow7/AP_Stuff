@@ -1,7 +1,7 @@
 package apstuff;
 
 import java.util.Scanner;
-//still need to write a print the position array....
+//AP_17_4
 
 public class Matrix  {
 	Scanner scanStr,scanInt;

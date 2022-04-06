@@ -1,8 +1,9 @@
 package apstuff;
 
 import java.util.Scanner;
-//still need to write a print the position array....
 
+// AP_17_4  main class is called the Matrix Class--exam calls it the Successor class
+//constructor fills a 2D integer matrix with random consecutive set of integers.
 public class AP_17_4  {
 	Scanner scanStr,scanInt;
 	int[][] ar;
@@ -87,7 +88,7 @@ public class AP_17_4  {
  //Position arrayPosition(int val,int[][] arRay);;;Position[][] arraySuc(int[][] arRay)
  //void prtPos(Position[][] posAr)
  
- //Position();;getPosition(value,int[][]);;prtPos();;prtPos(Matrix)
+ //Position();;getPosition(value,int[][] arAr);;prtPos();;prtPos(Matrix)
   	public static void main(String[] args) {
   		AP_17_4 ap=new AP_17_4();
   		ap.prtAr();
